@@ -110,6 +110,4 @@ AI tools were used strategically to enhance speed, quality, and creativity:
 ![Screenshot of Key Takeaways page](/powerbi/dashboard_screenshots/key_takeaways.png)
 
 
-Email - aidanjaramillo@gmail.com
 
-Power BI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiYjAyMThlMWItZWJkMC00MmVhLTg2ZTEtNDNlMmYyMzAzZjEyIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9&pageName=96a9078667946229ab6a
