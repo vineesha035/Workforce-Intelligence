@@ -103,17 +103,12 @@ AI tools were used strategically to enhance speed, quality, and creativity:
 **All SQL logic, schema designs, and visual development were implemented manually. AI was used as a productivity partner.**
 
 ## Sample Visuals
-![Screenshot of Homepage](/powerbi/dashboard_screenshots/homepage.png)\
 ![Screenshot of Executive Summary page](/powerbi/dashboard_screenshots/executive_summary.png)\
 ![Screenshot of Talent Gap page](/powerbi/dashboard_screenshots/talent_gap.png)\
 ![Screenshot of Earning Potential page](/powerbi/dashboard_screenshots/earning_potential.png)\
 ![Screenshot of Predictive Model page](/powerbi/dashboard_screenshots/predictive_model.png)\
 ![Screenshot of Key Takeaways page](/powerbi/dashboard_screenshots/key_takeaways.png)
 
-## Contact
-If you would like to discuss the project or collaborate, feel free to reach out to me through my various platforms.
-
-LinkedIn - https://www.linkedin.com/in/aidan-jaramillo-tx/
 
 Email - aidanjaramillo@gmail.com
 
